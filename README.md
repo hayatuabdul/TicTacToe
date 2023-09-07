@@ -1,2 +1,2 @@
 # TicTacToe
-A Simple unintelligent Tic Tac Toe Program that plays the game with the User.
+A basic Tic Tac Toe program for user interaction, highlighting essential Python skills and functionalities.
